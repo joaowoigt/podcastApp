@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094546429032",
+    "project_id": "socio-podcasts",
+    "storage_bucket": "socio-podcasts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094546429032:android:74e084ed83545dd9b457dd",
+        "android_client_info": {
+          "package_name": "com.woigt.socioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094546429032-ntuebrc2015j3vgmuqdalki5rr9mu8tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmeLH11OJqWr8LH_ozyEpzSLGeZ0Csd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094546429032-ntuebrc2015j3vgmuqdalki5rr9mu8tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
