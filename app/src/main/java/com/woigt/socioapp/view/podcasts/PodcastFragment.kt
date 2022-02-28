@@ -1,4 +1,4 @@
-package com.woigt.socioapp
+package com.woigt.socioapp.view.podcasts
 
 import android.os.Bundle
 import android.view.LayoutInflater

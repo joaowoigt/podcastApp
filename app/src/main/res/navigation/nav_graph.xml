@@ -6,7 +6,7 @@
     app:startDestination="@id/podcastFragment">
     <fragment
         android:id="@+id/podcastFragment"
-        android:name="com.woigt.socioapp.PodcastFragment"
+        android:name="com.woigt.socioapp.view.podcasts.PodcastFragment"
         android:label="PodcastFragment"
         tools:layout="@layout/podcast_fragment" />
 </navigation>
